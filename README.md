@@ -48,7 +48,7 @@ to the tarballs/ directory.
 Then ensure you have the following installed on your system:
 
 `Clang 3.4+`, `cmake`, `git`, `patch`, `Python`, `libssl-devel` (openssl)  
-`lzma-devel`, `libxml2-devel` and the `bash shell`.
+`lzma-devel`, `libxml2-devel`, `xz-utils`, `file`, and the `bash shell`.
 
 You can run 'sudo tools/get\_dependencies.sh' to get these (and the
 optional packages) automatically. (outdated)
